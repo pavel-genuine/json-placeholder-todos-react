@@ -13,10 +13,7 @@ const Todos = () => {
 
     return (
         <div>
-
-            {
-                console.log(todos)
-            }
+           <h1>{todos.length}</h1>
             {
             todos.map(element=><SingleTodo all={element} key={element.id} > </SingleTodo>)
             }

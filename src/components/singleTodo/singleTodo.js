@@ -6,7 +6,7 @@ const SingleTodo = (props) => {
 
     return (
         <div>
-            <h3>Completed: {completed? "true": "false"}</h3>
+            <h3>Completion Status: {completed? "true": "false"}</h3>
             <h3> ID : {id}</h3>
             <p>Titile : {title}</p>
         </div>
