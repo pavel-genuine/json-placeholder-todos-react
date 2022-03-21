@@ -1,0 +1,58 @@
+[
+    {
+      "sector": 0,
+      "road": 0,
+      "apartment": "5e6dd9f0-f1af-495f-a6ee-57647a26bf5a",
+      "isActive": false,
+      "id":1
+    },
+    {
+      "sector": 1,
+      "road": 1,
+      "apartment": "20f07596-5d51-45d2-a2aa-26263cea9cf1",
+      "isActive": true,
+      "id":2
+    },
+    {
+      "sector": 2,
+      "road": 2,
+      "apartment": "a23ff680-fc59-4e24-bae8-497a6fa535a8",
+      "isActive": true,
+      "id":3
+    },
+    {
+      "sector": 3,
+      "road": 3,
+      "apartment": "a049bcc7-19dd-4744-9e3c-10bf6d8202e1",
+      "isActive": false,
+      "id":4
+    },
+    {
+      "sector": 4,
+      "road": 4,
+      "apartment": "42b239fe-b58a-4f6c-8bd2-aca0addad503",
+      "isActive": true,
+      "id":5
+    },
+    {
+      "sector": 5,
+      "road": 5,
+      "apartment": "dad137f3-89db-437a-b51a-c1da599f1cb1",
+      "isActive": true,
+      "id":6
+    },
+    {
+      "sector": 6,
+      "road": 6,
+      "apartment": "6fd69385-1536-43d5-bade-f335e15e2bce",
+      "isActive": false,
+      "id":7
+    },
+    {
+      "sector": 7,
+      "road": 7,
+      "apartment": "9a205f28-3b23-4e4c-9e76-67bf3ce3347b",
+      "isActive": true,
+      "id":8
+    }
+  ]
